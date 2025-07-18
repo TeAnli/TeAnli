@@ -1,8 +1,12 @@
 # Hi I'm TeAnLi. A programming enthusiast 👋
 
-> Sport: I like play `ping-pong`
+> Sport: `ping-pong` `running` `fitness` `riding`
 
-> Game: `Terraria`, `ADOFI`
+> Game: `Terraria`, `ADOFI`,
+
+## Learing: 
+1. `Pixel landscape and figure`
+2. `Game and Graphic design`
 
 ## 💰️ Sponsor
 By [爱发电Aifadian](https://ifdian.net/a/TeAnLi) sponsor me 😉
