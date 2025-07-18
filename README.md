@@ -1,10 +1,15 @@
-Hi I'm TeAnLi. A programming enthusiast 👋
+# Hi I'm TeAnLi. A programming enthusiast 👋
 
-## Sponsor
-爱发电(Aifadian) https://ifdian.net/a/TeAnLi
+> Sport: I like play `ping-pong`
 
-## Contact
+> Game: `Terraria`, `ADOFI`
+
+## 💰️ Sponsor
+By [爱发电Aifadian](https://ifdian.net/a/TeAnLi) sponsor me 😉
+
+## ✉ Contact
 ```
 QQ: 1721299119
 Github: https://github.com/TeAnli/TeAnli
 ```
+
